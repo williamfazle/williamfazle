@@ -14,7 +14,7 @@ A full time web developer
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
 <br />
 <br />
-
+<br/>
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
@@ -61,10 +61,19 @@ I am a passionate computer science. I have been learn programming languages, web
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
 
 
 
-  <br/>
+### 💼 &nbsp; My Projects/ Papers
+  - Suspicious Activity Detection using Machine Learning (ongoing)
+  - Digital Madical Center
+  ---
+  
+
+<br />
 <br/>
 <br/>
 
@@ -76,7 +85,6 @@ I am a passionate computer science. I have been learn programming languages, web
 <br/>
 <br/>
 <br/>
-
 <br />
 
 ### 👨🏻‍🎓 &nbsp; Education
