@@ -1,5 +1,5 @@
 <!-- banner image starts here  -->
-<img src="images/my-image.png" width="50%">
+<img src="images/image.JPG" width="50%">
 <!-- banner image ends here  -->
 
 <h1> 👋 Hello, I'm Fazle Rabby </h1>
@@ -24,6 +24,11 @@ I am a passionate computer science. I have been learn programming languages, web
 <br />
 
 ### 👨🏽‍💻 &nbsp; My Skills :
+- Artificial intelligence
+- Machine learning
+- Data Science
+
+<br/>
 
 #### Key Skills of Web development:
 
@@ -64,19 +69,55 @@ I am a passionate computer science. I have been learn programming languages, web
 <br/>
 
 ### 💼 &nbsp; Employment History
+    9am Solution (intern) 
+   [<img align="left" alt="9am Solution" title="9am Solution" width="200" hspace="10" src="./images/9am_logo.webp" />][9am]
 
-
+<br />
+<br/>
+<br/>
+<br/>
 
 <br />
 
 ### 👨🏻‍🎓 &nbsp; Education
 
-1. B.Sc. in Computer Science & Engineering  
-   [<img align="left" alt="Green University of Bangladesh" title="Green University of Bangladesh" width="55" hspace="5" src="./images/gub-logo.png" />][gub]
+    Green University of Bangladesh 
+   [<img align="left" alt="Green University of Bangladesh" title="Green University of Bangladesh" width="200" hspace="10" src="./images/gub_logo.png" />][gub]
 
 <br />
+<br/>
+<br/>
+<br/>
 
-<br>
+
+### 👨🏻‍🎓 &nbsp; Department
+
+    B.Sc. in Computer Science & Engineering  
+   [<img align="left" alt="B.Sc. in Computer Science & Engineering" title="B.Sc. in Computer Science & Engineering" width="130" hspace="10" src="./images/cse_logo.png" />][cse]
+
+<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### 👨🏻‍🎓 &nbsp; Club
+
+    Green University Computer Club
+   [<img align="left" alt="Green University Computer Club" title="Green University Computer Club" width="150" hspace="10" src="./images/gucc_logo.png" />][club]
+
+<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Languages:
 
@@ -105,3 +146,6 @@ All rights reserved by william_fazle @2025
 [linkedin]: https://www.linkedin.com/in/fazle-rabby-green221002378/
 [github]: https://github.com/williamfazle
 [gub]: https://green.edu.bd/
+[cse]: https://cse.green.edu.bd/
+[club]: https://gucc.green.edu.bd/
+[9am]: https://www.9amsolution.com/
