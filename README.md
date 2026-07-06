@@ -18,7 +18,7 @@ A full time web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science. I have been learn programming languages, web development, and computer science-related subjects. I am a dedicated and resilient individual who approaches challenges with determination and strength. I thrive on problem-solving and always strive to find effective solutions, no matter how complex the situation. My commitment to excellence drives me to persevere until every task is completed successfully, I am improving my web development skills. Every day I want to learn something new and share my knowledge with others.
+Computer Science and Engineering graduate and Full-Stack Developer with hands-on experience in building responsive, scalable, and production-ready web applications. Proficient in React.js, Next.js, Django, Django REST Framework, Express.js, and REST API development, with strong programming fundamentals and expertise in frontend architecture, backend development, and database design. Passionate about developing secure, high-performance applications and continuously expanding knowledge of modern web technologies.
 </p>
 
 <br />
